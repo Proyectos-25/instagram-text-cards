@@ -1,0 +1,9 @@
+/* Custom font styles */
+@font-face {
+  font-family: 'Consolas';
+  src: local('Consolas');
+}
+
+.card-text {
+  font-family: 'Consolas', monospace;
+}

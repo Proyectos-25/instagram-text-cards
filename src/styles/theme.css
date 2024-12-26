@@ -1,0 +1,15 @@
+/* Dark theme variables */
+:root {
+  --bg-primary: #13151a;
+  --bg-secondary: #1a1d24;
+  --accent-primary: #3b82f6;
+  --accent-secondary: #8b5cf6;
+  --text-primary: #ffffff;
+  --text-secondary: #9ca3af;
+  --card-bg: #1a1d24;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
